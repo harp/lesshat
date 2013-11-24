@@ -1,0 +1,14 @@
+{
+  "name": "lesshat",
+  "repo": "harp/lesshat",
+  "description": "For Harp. Smart LESS CSS mixins library.",
+  "version": "2.0.9",
+  "keywords": ["harp", "less", "lesshat"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "files": [
+    "lesshat-prefixed.less",
+    "lesshat.less"
+  ]
+}
