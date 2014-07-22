@@ -9,11 +9,13 @@
 
 ## Install
 
-To install LESS Hat, run the following command from the root of your harp project:
+To install LESS Hat, you can [download this repository](https://github.com/harp/lesshat/archive/master.zip) or use the [Component](http://component.io) package manager.
 
 ```bash
-harp install lesshat
+npm install -g component
+component install harp/lesshat
 ```
+
 
 Your Project will look something like this…
 
